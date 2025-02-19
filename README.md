@@ -1,2 +1,3 @@
 # DIO-java-de-cria
-Código do Curso DIO - Bradesco
+Codigo do Curso DIO - Bradesco
+Vai tomando
